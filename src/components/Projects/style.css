@@ -1,0 +1,35 @@
+.projects {
+    margin: 0 0px 50px 20px;
+}
+.projects h3 {
+    color: #b27c08;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.projects .project {
+    display: flex;
+    padding-top: 20px;
+}
+.projects .project .point {
+    display: flex;
+    align-items: center;
+    flex: 0.2;
+}
+.projects .project .point span {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #b27c08;
+}
+.projects .project .description p {
+    color: #515151;
+}
+.projects .project .description p:nth-of-type(1) {
+    font-size: 25px;
+    font-weight: 700;
+}
+.projects .project .description p:nth-of-type(2) {
+    font-size: 25px;
+    font-weight: 400;
+}
