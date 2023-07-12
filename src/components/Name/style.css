@@ -1,0 +1,15 @@
+.name {
+    margin: 0 0 50px 20px;
+}
+.name p:nth-of-type(1) {
+    color: #b27c08;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.name p:nth-of-type(2) {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+}

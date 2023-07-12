@@ -1,0 +1,22 @@
+.contact {
+    margin: 0 0px 50px 20px;
+}
+.contact h3 {
+    color: #b27c08;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.contact .links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+.contact .links i {
+    color: #fff;
+    padding-bottom: 10px;
+}
+.contact .links i span {
+    margin-left: 15px;
+    font-family: 'Roboto', sans-serif;
+}

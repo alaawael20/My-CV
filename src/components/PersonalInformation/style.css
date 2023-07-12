@@ -1,0 +1,23 @@
+.personalInformation {
+    margin: 0 0 50px 20px;
+}
+.personalInformation h3 {
+    color: #b27c08;
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.personalInformation div {
+    margin-top: 20px;
+}
+.personalInformation div p {
+    color: #fff;
+    padding-block: 5px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.personalInformation div p span {
+    color: #b27c08;
+    font-weight: 500;
+    padding-right: 10px;
+}

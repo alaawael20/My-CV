@@ -1,6 +1,10 @@
+import CVPages from "./pages/CV_Pages";
+
 function App() {
   return (
-    <div>Alaa</div>
+    <div>
+      <CVPages />
+    </div>
   );
 }
 

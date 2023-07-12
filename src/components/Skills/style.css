@@ -1,0 +1,60 @@
+.skills {
+    margin: 0 20px 50px 20px;
+}
+
+.skills h3 {
+    color: #b27c08;
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.skills>div {
+    margin-top: 10px;
+}
+
+.skillProg p {
+    font-size: 15px;
+    color: #fff;
+    padding-block: 10px;
+}
+
+.container {
+    width: 100%;
+    background-color: #fff;
+}
+
+.skill {
+    text-align: right;
+    color: white;
+}
+
+.html {
+    width: 90%;
+    background-color: #b27c08;
+    font-size: 10px;
+}
+
+.js {
+    width: 70%;
+    background-color: #b27c08;
+    font-size: 10px;
+}
+
+.bootstarp {
+    width: 90%;
+    background-color: #b27c08;
+    font-size: 10px;
+}
+
+.sass {
+    width: 40%;
+    background-color: #b27c08;
+    font-size: 10px;
+}
+
+.react {
+    width: 30%;
+    background-color: #b27c08;
+    font-size: 10px;
+}
